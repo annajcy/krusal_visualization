@@ -12,7 +12,7 @@ pub const LINE_WIDTH : f32 = 1.0;
 pub const LAYOUT_RADIUS : f32 = 100.0;
 
 pub const FONT_COLOR : Color32 = Color32::WHITE;
-pub const EDGE_COLOR : Color32 = Color32::BLACK;
+pub const EDGE_COLOR : Color32 = Color32::WHITE;
 pub const NODE_COLOR : Color32 = Color32::BLUE;
 pub const MST_EDGE_COLOR : Color32 = Color32::RED;
 
